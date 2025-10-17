@@ -1,2 +1,3 @@
-# hello
-A repository for practising git commands.
+# Hello
+
+This is the Hello World example from the git tutorial.
